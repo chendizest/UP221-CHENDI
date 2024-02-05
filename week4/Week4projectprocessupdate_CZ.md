@@ -6,6 +6,7 @@ Individual work. Chendi Zhang works on data collection, research design, and dat
 
 # Status update
 From the practices of weekly assignments to applications.
+My mood is orange - being excited and anxious.
 
 # Data update
 *   Wildfire Management Planning effective scores created by the FireTools_UCOP_HUD group: https://github.com/chendizest/UP221-CHENDI/blob/main/Week2/PE_58CAcounties.csv
