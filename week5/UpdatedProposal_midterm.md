@@ -1,5 +1,4 @@
 Project title and link to proposal Title: Wildfire 
-Link: https://github.com/chendizest/UP221-CHENDI/blob/main/week3/Week3projectproposalCZ.md
 
 # Roles
 Individual work. Chendi Zhang works on data collection, research design, and data visualization. 
